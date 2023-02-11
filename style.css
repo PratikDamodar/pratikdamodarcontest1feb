@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+   font-style: normal;
+  
+}
+.first{
+    background-color: black;
+    height: 87px;
+width: 1728px;
+
+}
+nav{
+    height: 29px;
+width: 180px;
+padding-left: 38px;
+padding-top:  29px;
+border-radius: 0px;
+color: white;
+}
+.second{
+    height: 144px;
+    /* width: 600px; */
+    padding-left:  38px;
+    /* padding-top:  140px; */
+    margin-top: 40px;
+    
+    
+
+}
+button{
+   padding: 10px;
+   background-color: black;
+   color: white;
+   width: 129px;
+}
+.second h1{
+    margin-bottom: 20px;
+}
+.third{
+    padding-left: 38px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fourth h1{
+    padding-left:  38px;
+    padding-bottom: 20px;
+}
+img{
+    padding-left:  38px;
+    height: 911px;
+width: 729px;
+padding-top: 25px;
+  
+}
+.fifth h1{
+    padding: 38px;
+}
+.fifth li{
+    padding-left: 38px;
+}
+.sixth li{
+   
+        padding-left: 38px;
+    
+}
+.sixth h1{
+    padding: 38px;
+
+}
+li {
+
+list-style-position: inside;
+}
